@@ -12,4 +12,5 @@ A results-driven professional with a diverse skill set that encompasses network 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-1moses1-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/18154445/1moses1)
 [![YouTube](https://img.shields.io/badge/YouTube-1moses1-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/https://www.youtube.com/watch?v=-cPM58Y9C7E&t=3s)
 [![Reddit](https://img.shields.io/badge/Reddit-moses_observer-orange?style=flat-square&logo=reddit)](https://www.reddit.com/user/moses_observer)
+[![Gmail](https://img.shields.io/badge/Email-iradukundam47%40gmail.com-red?style=flat-square&logo=gmail)](mailto:iradukundam47@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=icloud)](https://1moses1.github.io/moise-iradukunda-portfolio/)
