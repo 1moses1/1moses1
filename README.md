@@ -5,4 +5,4 @@ Results-driven professional with a diverse skill set that encompasses network ar
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1moses1&layout=compact)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1moses1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
