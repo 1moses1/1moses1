@@ -2,9 +2,7 @@
   ![Tearfund](tearfund.jpg)
 
 
-A results-driven **DevSecOps Engineer** with a diverse skill set spanning network architecture, full-stack development, cloud-native infrastructure, and security automation. Passionate about leveraging cutting-edge technologies to build secure, scalable, and resilient systems. Expert in designing, implementing, and managing cloud infrastructures using modern CI/CD, container orchestration, and security-as-code practices. Proven ability to lead cross-functional initiatives and deliver secure-by-default solutions that drive innovation and efficiency. 💻🌐🔐🚀
-
----
+A results-driven DevSecOps professional with a comprehensive skill set that encompasses network architecture, web development, cloud computing strategy, and security engineering. Passionate about integrating security into every phase of the software development lifecycle while leveraging cutting-edge technology to solve complex problems and drive innovation. Expertise in designing, implementing, and managing scalable, secure, and resilient IT infrastructure with a security-first mindset. Proven ability to collaborate with cross-functional teams to deliver high-impact, secure solutions that balance performance, reliability, and compliance requirements.💻🌐🚀🔐
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,6 +31,12 @@ A results-driven **DevSecOps Engineer** with a diverse skill set spanning networ
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
 
   <!-- DevOps Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -44,11 +48,17 @@ A results-driven **DevSecOps Engineer** with a diverse skill set spanning networ
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+  </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
   </a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/argo.svg" alt="argo-cd" width="40" height="40"/>
+  <a href="https://istio.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/>
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
@@ -56,10 +66,22 @@ A results-driven **DevSecOps Engineer** with a diverse skill set spanning networ
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://www.fluentd.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="fluentd" width="40" height="40"/>
+  </a>
 
-  <!-- Cloud Platforms -->
+  <!-- Cloud Computing -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
 
   <!-- Infrastructure as Code -->
@@ -72,50 +94,93 @@ A results-driven **DevSecOps Engineer** with a diverse skill set spanning networ
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
-
-  <!-- DevSecOps & Security Tools -->
-  <!-- OWASP ZAP -->
-  <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
-    <img src="https://www.zaproxy.org/images/zap128x128.png" alt="owasp zap" width="40" height="40"/>
+  <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" alt="pulumi" width="40" height="40"/>
   </a>
 
-  <!-- SonarQube -->
+  <!-- Security Tools -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
   </a>
-
-  <!-- Snyk -->
   <a href="https://snyk.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Snyk-logo.svg" alt="snyk" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/snyk/snyk-icon.svg" alt="snyk" width="40" height="40"/>
   </a>
-
-  <!-- Trivy -->
-  <a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.svg" alt="trivy" width="40" height="40"/>
+  <a href="https://www.twistlock.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="twistlock" width="40" height="40"/>
   </a>
-
-  <!-- kube-bench -->
-  <a href="https://github.com/aquasecurity/kube-bench" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/10936039?s=200&v=4" alt="kube-bench" width="40" height="40"/>
+  <a href="https://aquasec.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="aquasec" width="40" height="40"/>
   </a>
-
-  <!-- Checkov -->
-  <a href="https://www.checkov.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/images/checkov-logo.png" alt="checkov" width="40" height="40"/>
-  </a>
-
-  <!-- Grype -->
-  <a href="https://github.com/anchore/grype" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="grype" width="40" height="40"/>
-  </a>
-
-  <!-- Falco -->
   <a href="https://falco.org/" target="_blank" rel="noreferrer">
-    <img src="https://falco.org/img/falco-logo.svg" alt="falco" width="40" height="40"/>
+    <img src="https://landscape.cncf.io/logos/falco.svg" alt="falco" width="40" height="40"/>
+  </a>
+  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/>
+  </a>
+  <a href="https://www.consul.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/>
+  </a>
+  <a href="https://www.owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
+    <img src="https://www.zaproxy.org/img/zap256x256.png" alt="owasp-zap" width="40" height="40"/>
+  </a>
+  <a href="https://clair.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/quay/clair/raw/main/Documentation/images/clair-logo.png" alt="clair" width="40" height="40"/>
+  </a>
+  <a href="https://trivy.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/aquasecurity/trivy/raw/main/docs/imgs/logo.png" alt="trivy" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/anchore/anchore-engine" target="_blank" rel="noreferrer">
+    <img src="https://anchore.com/wp-content/uploads/2019/04/anchore_logo_lockup_onWhite_blue.svg" alt="anchore" width="40" height="40"/>
+  </a>
+  <a href="https://www.checkov.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.checkov.io/images/checkov-logo.svg" alt="checkov" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/tfsec/tfsec" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tfsec/tfsec/master/tfsec.png" alt="tfsec" width="40" height="40"/>
+  </a>
+  <a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
+    <img src="https://semgrep.dev/img/semgrep-icon-text-horizontal.svg" alt="semgrep" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/hadolint/hadolint" target="_blank" rel="noreferrer">
+    <img src="https://github.com/hadolint/hadolint/raw/master/logo/hadolint@2x.png" alt="hadolint" width="40" height="40"/>
+  </a>
+
+  <!-- Service Mesh & Networking -->
+  <a href="https://linkerd.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkerd/linkerd-icon.svg" alt="linkerd" width="40" height="40"/>
+  </a>
+  <a href="https://www.envoyproxy.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-icon.svg" alt="envoy" width="40" height="40"/>
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+
+  <!-- Version Control & Collaboration -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- Operating Systems -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   </a>
 </p>
 
 ---
+
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-1moses1-blue?style=flat-square&logo=github)](https://github.com/1moses1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moise%20Iradukunda%20Ingabire-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moise-iradukunda-ingabire/)
@@ -126,3 +191,4 @@ A results-driven **DevSecOps Engineer** with a diverse skill set spanning networ
 [![Reddit](https://img.shields.io/badge/Reddit-moses_observer-orange?style=flat-square&logo=reddit)](https://www.reddit.com/user/moses_observer)
 [![Gmail](https://img.shields.io/badge/Email-iradukundam47%40gmail.com-red?style=flat-square&logo=gmail)](mailto:iradukundam47@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=icloud)](https://1moses1.github.io/moise-iradukunda-portfolio/)
+=======================================================
