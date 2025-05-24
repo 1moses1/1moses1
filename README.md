@@ -1,8 +1,10 @@
-### Hi there 👋  my name is ```Moise Iradukunda Ingabire``` 🔮
+### Hi there 👋  my name is ```Moise Iradukunda Ingabire🔮``` 
   ![Tearfund](tearfund.jpg)
 
 
-A results-driven professional with a diverse skill set that encompasses network architecture, web development, and cloud computing strategy. Passionate about leveraging technology to solve complex problems and drive innovation. Expertise in designing, implementing, and managing scalable and secure IT infrastructure. Proven ability to collaborate with cross-functional teams to deliver high-impact solutions.💻🌐🚀
+A results-driven **DevSecOps Engineer** with a diverse skill set spanning network architecture, full-stack development, cloud-native infrastructure, and security automation. Passionate about leveraging cutting-edge technologies to build secure, scalable, and resilient systems. Expert in designing, implementing, and managing cloud infrastructures using modern CI/CD, container orchestration, and security-as-code practices. Proven ability to lead cross-functional initiatives and deliver secure-by-default solutions that drive innovation and efficiency. 💻🌐🔐🚀
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,13 +44,25 @@ A results-driven professional with a diverse skill set that encompasses network 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/argo.svg" alt="argo-cd" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  </a>
 
-  <!-- Cloud Computing -->
+  <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
 
-  <!-- Containerization -->
+  <!-- Infrastructure as Code -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   </a>
@@ -58,11 +72,35 @@ A results-driven professional with a diverse skill set that encompasses network 
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
+
+  <!-- DevSecOps & Security Tools -->
+  <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
+    <img src="https://www.zaproxy.org/images/zap128x128.png" alt="owasp zap" width="40" height="40"/>
+  </a>
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="sonarqube" width="40" height="40"/>
+  </a>
+  <a href="https://snyk.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" alt="snyk" width="40" height="40"/>
+  </a>
+  <a href="https://www.trivy.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.svg" alt="trivy" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/aquasecurity/kube-bench" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/aquasecurity/kube-bench/main/images/kube-bench.png" alt="kube-bench" width="40" height="40"/>
+  </a>
+  <a href="https://checkov.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.checkov.io/img/logos/checkov-by-bridgecrew.png" alt="checkov" width="40" height="40"/>
+  </a>
+  <a href="https://www.grype.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/anchore/grype/main/docs/images/logo.svg" alt="grype" width="40" height="40"/>
+  </a>
+  <a href="https://falco.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/falcosecurity/falco-website/main/static/img/logos/falco-logo-color.svg" alt="falco" width="40" height="40"/>
+  </a>
 </p>
 
 ---
-
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-1moses1-blue?style=flat-square&logo=github)](https://github.com/1moses1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moise%20Iradukunda%20Ingabire-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moise-iradukunda-ingabire/)
