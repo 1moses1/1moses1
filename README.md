@@ -189,6 +189,8 @@ A results-driven DevSecOps professional with a comprehensive skill set that enco
 
 ---
 
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-1moses1-blue?style=flat-square&logo=github)](https://github.com/1moses1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moise%20Iradukunda%20Ingabire-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moise-iradukunda-ingabire/)
 [![Instagram](https://img.shields.io/badge/Instagram-The%20Observer-blue?style=flat-square&logo=instagram)](https://www.instagram.com/the_observer____/)
@@ -198,4 +200,3 @@ A results-driven DevSecOps professional with a comprehensive skill set that enco
 [![Reddit](https://img.shields.io/badge/Reddit-moses_observer-orange?style=flat-square&logo=reddit)](https://www.reddit.com/user/moses_observer)
 [![Gmail](https://img.shields.io/badge/Email-iradukundam47%40gmail.com-red?style=flat-square&logo=gmail)](mailto:iradukundam47@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=icloud)](https://1moses1.github.io/moise-iradukunda-portfolio/)
----
