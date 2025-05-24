@@ -74,29 +74,44 @@ A results-driven **DevSecOps Engineer** with a diverse skill set spanning networ
   </a>
 
   <!-- DevSecOps & Security Tools -->
+  <!-- OWASP ZAP -->
   <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
     <img src="https://www.zaproxy.org/images/zap128x128.png" alt="owasp zap" width="40" height="40"/>
   </a>
+
+  <!-- SonarQube -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="sonarqube" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
   </a>
+
+  <!-- Snyk -->
   <a href="https://snyk.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" alt="snyk" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Snyk-logo.svg" alt="snyk" width="40" height="40"/>
   </a>
-  <a href="https://www.trivy.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.svg" alt="trivy" width="40" height="40"/>
+
+  <!-- Trivy -->
+  <a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/logo.svg" alt="trivy" width="40" height="40"/>
   </a>
+
+  <!-- kube-bench -->
   <a href="https://github.com/aquasecurity/kube-bench" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aquasecurity/kube-bench/main/images/kube-bench.png" alt="kube-bench" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/10936039?s=200&v=4" alt="kube-bench" width="40" height="40"/>
   </a>
-  <a href="https://checkov.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.checkov.io/img/logos/checkov-by-bridgecrew.png" alt="checkov" width="40" height="40"/>
+
+  <!-- Checkov -->
+  <a href="https://www.checkov.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/images/checkov-logo.png" alt="checkov" width="40" height="40"/>
   </a>
-  <a href="https://www.grype.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/anchore/grype/main/docs/images/logo.svg" alt="grype" width="40" height="40"/>
+
+  <!-- Grype -->
+  <a href="https://github.com/anchore/grype" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="grype" width="40" height="40"/>
   </a>
+
+  <!-- Falco -->
   <a href="https://falco.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/falcosecurity/falco-website/main/static/img/logos/falco-logo-color.svg" alt="falco" width="40" height="40"/>
+    <img src="https://falco.org/img/falco-logo.svg" alt="falco" width="40" height="40"/>
   </a>
 </p>
 
