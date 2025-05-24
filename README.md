@@ -100,49 +100,58 @@ A results-driven DevSecOps professional with a comprehensive skill set that enco
 
   <!-- Security Tools -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
   </a>
   <a href="https://snyk.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/snyk/snyk-icon.svg" alt="snyk" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snyk.svg" alt="snyk" width="40" height="40"/>
   </a>
-  <a href="https://www.twistlock.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="twistlock" width="40" height="40"/>
+  <a href="https://www.paloaltonetworks.com/prisma/cloud" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paloaltonetworks.svg" alt="prisma-cloud" width="40" height="40"/>
   </a>
   <a href="https://aquasec.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="aquasec" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aqua.svg" alt="aquasec" width="40" height="40"/>
   </a>
   <a href="https://falco.org/" target="_blank" rel="noreferrer">
-    <img src="https://landscape.cncf.io/logos/falco.svg" alt="falco" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/falco/icon/color/falco-icon-color.svg" alt="falco" width="40" height="40"/>
   </a>
   <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vault.svg" alt="vault" width="40" height="40"/>
   </a>
   <a href="https://www.consul.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/consul.svg" alt="consul" width="40" height="40"/>
   </a>
   <a href="https://www.owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
-    <img src="https://www.zaproxy.org/img/zap256x256.png" alt="owasp-zap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" alt="owasp-zap" width="40" height="40"/>
   </a>
-  <a href="https://clair.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/quay/clair/raw/main/Documentation/images/clair-logo.png" alt="clair" width="40" height="40"/>
+  <a href="https://github.com/quay/clair" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redhat.svg" alt="clair" width="40" height="40"/>
   </a>
   <a href="https://trivy.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/aquasecurity/trivy/raw/main/docs/imgs/logo.png" alt="trivy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="trivy" width="40" height="40"/>
   </a>
-  <a href="https://github.com/anchore/anchore-engine" target="_blank" rel="noreferrer">
-    <img src="https://anchore.com/wp-content/uploads/2019/04/anchore_logo_lockup_onWhite_blue.svg" alt="anchore" width="40" height="40"/>
+  <a href="https://anchore.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anchor.svg" alt="anchore" width="40" height="40"/>
   </a>
   <a href="https://www.checkov.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.checkov.io/images/checkov-logo.svg" alt="checkov" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prisma.svg" alt="checkov" width="40" height="40"/>
   </a>
-  <a href="https://github.com/tfsec/tfsec" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tfsec/tfsec/master/tfsec.png" alt="tfsec" width="40" height="40"/>
+  <a href="https://github.com/aquasecurity/tfsec" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" alt="tfsec" width="40" height="40"/>
   </a>
   <a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
-    <img src="https://semgrep.dev/img/semgrep-icon-text-horizontal.svg" alt="semgrep" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/semgrep.svg" alt="semgrep" width="40" height="40"/>
   </a>
   <a href="https://github.com/hadolint/hadolint" target="_blank" rel="noreferrer">
-    <img src="https://github.com/hadolint/hadolint/raw/master/logo/hadolint@2x.png" alt="hadolint" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/haskell.svg" alt="hadolint" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/returntocorp/bandit" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="bandit" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/PyCQA/safety" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="safety" width="40" height="40"/>
+  </a>
+  <a href="https://www.nessus.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tenable.svg" alt="nessus" width="40" height="40"/>
   </a>
 
   <!-- Service Mesh & Networking -->
