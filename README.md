@@ -94,9 +94,7 @@ A results-driven DevSecOps professional with a comprehensive skill set that enco
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
-  <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" alt="pulumi" width="40" height="40"/>
-  </a>
+
 
   <!-- Security Tools -->
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
@@ -135,29 +133,16 @@ A results-driven DevSecOps professional with a comprehensive skill set that enco
   <a href="https://www.checkov.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prisma.svg" alt="checkov" width="40" height="40"/>
   </a>
-  <a href="https://github.com/aquasecurity/tfsec" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/terraform.svg" alt="tfsec" width="40" height="40"/>
-  </a>
-  <a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/semgrep.svg" alt="semgrep" width="40" height="40"/>
-  </a>
+
+
   <a href="https://github.com/hadolint/hadolint" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/haskell.svg" alt="hadolint" width="40" height="40"/>
   </a>
-  <a href="https://github.com/returntocorp/bandit" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="bandit" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/PyCQA/safety" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="safety" width="40" height="40"/>
-  </a>
-  <a href="https://www.nessus.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tenable.svg" alt="nessus" width="40" height="40"/>
-  </a>
+
+
+
 
   <!-- Service Mesh & Networking -->
-  <a href="https://linkerd.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkerd/linkerd-icon.svg" alt="linkerd" width="40" height="40"/>
-  </a>
   <a href="https://www.envoyproxy.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-icon.svg" alt="envoy" width="40" height="40"/>
   </a>
